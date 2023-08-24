@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+The project is currently under construction.
 <!--
 **RawShines/RawShines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Changelog
+
+* Add test image and simple test script (Worded on TIF image and Apple Photos) // 08.23.2023
